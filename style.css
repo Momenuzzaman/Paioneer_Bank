@@ -4,7 +4,7 @@ body{
 .bank-title{
     text-align: center;
 }
-.login-area{
+.submit-area{
     margin-top: 50px;
     padding: 40px;
     border-radius: 10px;
@@ -12,4 +12,19 @@ body{
 }
 #transaction-area{
     display: none;
+}
+.status{
+    margin: 0 20px;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+}
+.deposite{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: lightskyblue;
 }
